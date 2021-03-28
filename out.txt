@@ -1,0 +1,8 @@
+.
+..
+.git
+main
+main2
+main2.c
+main.c
+out.txt

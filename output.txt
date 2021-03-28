@@ -1,0 +1,9 @@
+total 64
+drwxrwxr-x  3 osc osc  4096 Mar 28 00:48 .
+drwxrwxr-x 15 osc osc  4096 Mar 28 00:36 ..
+drwxrwxr-x  8 osc osc  4096 Mar 28 00:49 .git
+-rw-rw-r--  1 osc osc    18 Mar 27 20:31 in.txt
+-rwxrwxr-x  1 osc osc 21704 Mar 28 00:48 main2
+-rw-rw-r--  1 osc osc 12333 Mar 28 00:48 main2.c
+-rw-rw-r--  1 osc osc   387 Mar 28 00:48 output.txt
+-rw-rw-r--  1 osc osc    44 Mar 27 20:27 out.txt

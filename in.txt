@@ -1,0 +1,3 @@
+ls
+cat in.txt
+exit
